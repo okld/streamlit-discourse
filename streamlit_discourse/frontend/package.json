@@ -1,6 +1,6 @@
 {
-  "name": "streamlit_disqus",
-  "version": "0.1.2",
+  "name": "streamlit_discourse",
+  "version": "0.1.3",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
