@@ -18,6 +18,6 @@ setuptools.setup(
     classifiers=[],
     python_requires=">=3.6",
     install_requires=[
-        "streamlit >= 0.63",  # TODO Change to 0.73?
+        "streamlit >= 0.73",
     ],
 )
