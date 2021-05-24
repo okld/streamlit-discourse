@@ -8,7 +8,7 @@
 pip install streamlit-discourse
 ```
 
-## Quick usage
+## Getting started
 
 ```python
 from streamlit_discourse import st_discourse
@@ -23,7 +23,7 @@ st_discourse(discourse_url, topic_id)
 
 ## Demo
 
-[![Open in Streamlit][share_badge]][share_link] 
+[![Open in Streamlit][share_badge]][share_link]
 
 [![Preview][share_img]][share_link]
 
