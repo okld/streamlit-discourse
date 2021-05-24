@@ -1,4 +1,4 @@
-# Streamlit Discourse
+# 💬 Streamlit Discourse
 
 [![GitHub][github_badge]][github_link] [![PyPI][pypi_badge]][pypi_link] 
 
