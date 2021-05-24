@@ -23,7 +23,7 @@ st_discourse(discourse_url, topic_id)
 
 ## Demo
 
-[![Demo preview][share_img]][share_link]
+[![Open in Streamlit][share_badge]][share_link] 
 
 [![Preview][share_img]][share_link]
 
